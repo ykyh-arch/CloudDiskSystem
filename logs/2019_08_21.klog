@@ -1,0 +1,1717 @@
+TIME:
+2019��08��21�� 16:20:44
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:20:48
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:20:51
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:20:51
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:20:58
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:21:02
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:21:12
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:21:13
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:21:14
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:21:24
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:21:55
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:25:28
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:25:54
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:25:55
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:25:55
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:25:56
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:26:04
+TYPE:
+Exception
+CONTENT:
+[org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]]:nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+### The error may exist in file [E:\code\studyDemo\uetec-file-system\mybatisResource\mapperXML\FolderMapper.xml]
+### The error may involve uetec.filesystem.server.mapper.FolderMapper.queryById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.h2.jdbc.JdbcSQLException: Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-197]
+
+TIME:
+2019��08��21�� 16:29:50
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [b3eac343-f7f2-4100-ba3f-8ff13b862429.jpg]
+
+TIME:
+2019��08��21�� 16:29:50
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg.gif]
+
+TIME:
+2019��08��21�� 16:29:50
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg.jpg]
+
+TIME:
+2019��08��21�� 16:29:50
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg1.gif]
+
+TIME:
+2019��08��21�� 16:29:51
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg10.gif]
+
+TIME:
+2019��08��21�� 16:29:53
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg11.gif]
+
+TIME:
+2019��08��21�� 16:29:53
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg12.gif]
+
+TIME:
+2019��08��21�� 16:29:54
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg13.gif]
+
+TIME:
+2019��08��21�� 16:29:55
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg14.gif]
+
+TIME:
+2019��08��21�� 16:29:55
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg15.gif]
+
+TIME:
+2019��08��21�� 16:29:55
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg16.gif]
+
+TIME:
+2019��08��21�� 16:29:55
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg17.gif]
+
+TIME:
+2019��08��21�� 16:29:58
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg2.gif]
+
+TIME:
+2019��08��21�� 16:29:59
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg3.gif]
+
+TIME:
+2019��08��21�� 16:29:59
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg4.gif]
+
+TIME:
+2019��08��21�� 16:29:59
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg5.gif]
+
+TIME:
+2019��08��21�� 16:29:59
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg6.gif]
+
+TIME:
+2019��08��21�� 16:29:59
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg7.gif]
+
+TIME:
+2019��08��21�� 16:30:00
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg8.gif]
+
+TIME:
+2019��08��21�� 16:30:00
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��ͼ]
+>NAME [timg9.gif]
+
+TIME:
+2019��08��21�� 16:30:44
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Share Download file URL]
+>PATH [ROOT/��ͼ]
+>NAME [timg9.gif]
+
+TIME:
+2019��08��21�� 16:33:05
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Share Download file URL]
+>PATH [ROOT/��ͼ]
+>NAME [timg12.gif]
+
+TIME:
+2019��08��21�� 16:35:47
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Delete folder]
+>PATH [ROOT/]
+>NAME [��ͼ]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��]
+>NAME [about.html]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��]
+>NAME [contact.html]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��]
+>NAME [default-text.html]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��]
+>NAME [default.html]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��]
+>NAME [product.html]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/js]
+>NAME [banner.js]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/js]
+>NAME [jquery-1.10.2.min.js]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/js]
+>NAME [slider.js]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [+86130-7556-6100.png]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [1.jpg]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [1.png]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [2.png]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [3.png]
+
+TIME:
+2019��08��21�� 16:36:08
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [@yomo_light.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [about-01.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [about-1.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [about-2.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [about-3.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [about-4.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [about-5.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [About.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [awards-com.jpg]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Awards.jpg]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [banner---11.jpg]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [banner.jpg]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Blog.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [blogicon.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Bulb.jpg]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Bulb.png]
+
+TIME:
+2019��08��21�� 16:36:09
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [c-.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [c-BG.jpg]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [c-over.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [c-phone.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [c-wechat.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [CeilingLight.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Chandelier.jpg]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Chandelier.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [contact-01.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [contact-02.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [contact-03.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [contact-04.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [contact-1.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [contact-2.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Contact.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Desk Lamp.jpg]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [DeskLamp.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Droplight.jpg]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [E-Mail.png]
+
+TIME:
+2019��08��21�� 16:36:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [e-mailicon.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [FullSpectrumSmartBulb.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [FullSpectrumSmartEyeProtectionLamp.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [HighCRICeilingLight.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [HighCRIEyeProtectionLamp.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [HighCRISmartBulb.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [HighCRISmartEyeProtectionLamp.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Home.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [icon1.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [icon2.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [icon3.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [icon4.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [icon5.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [img1.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [img1_1.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-01.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-02.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-03.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-04.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-05.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-06.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-07.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-08.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-1.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-10.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-11.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-12.jpg]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-13.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-14.png]
+
+TIME:
+2019��08��21�� 16:36:11
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-15.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-2.jpg]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-18.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-17.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-16.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-3.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-4.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-5.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-6.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-7.jpg]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-8.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [index-9.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [JoinUs!.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [liweiyi@dadatech.com.cn.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [logo.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [navlogo.jpg]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Other.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [p-map.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [p-maplist.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Phone.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [phoneicon.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [product-1.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [product-2.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Products.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [RGBWSmartBulb.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [SolidwoodChandelier.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Stories.jpg]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [Support.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [supporticon.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [WeChat.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [wechaticon.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [WirelessChargingNightlight.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [y-banmore.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [y-bmore.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/images]
+>NAME [y-more-h.png]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/css]
+>NAME [base.css]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/css]
+>NAME [style-phone.css]
+
+TIME:
+2019��08��21�� 16:36:12
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT/��âƷ��/css]
+>NAME [style.css]
+
+TIME:
+2019��08��21�� 16:36:40
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Share Download file URL]
+>PATH [ROOT/��âƷ��]
+>NAME [default.html]
+
+TIME:
+2019��08��21�� 16:36:46
+TYPE:
+Event
+CONTENT:
+>OPERATE [Download file By Shared URL]
+>PATH [ROOT/��âƷ��]
+>NAME [default.html]
+
+TIME:
+2019��08��21�� 16:37:10
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Delete folder]
+>PATH [ROOT/]
+>NAME [��âƷ��]
+
+TIME:
+2019��08��21�� 16:39:00
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Upload file]
+>PATH [ROOT]
+>NAME [201707210915.mp4]
+
+TIME:
+2019��08��21�� 16:40:01
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Delete file]
+>PATH [ROOT]
+>NAME [201707210915.mp4]

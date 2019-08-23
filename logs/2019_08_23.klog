@@ -1,0 +1,49 @@
+TIME:
+2019年08月23日 10:43:20
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [Anonymous]
+>OPERATE [Share Download file URL]
+>PATH [ROOT/龙珠漫画]
+>NAME [08.jpg]
+
+TIME:
+2019年08月23日 10:46:32
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Delete file]
+>PATH [ROOT]
+>NAME [0001.搜狐视频-女管家第1集[原画版]-0002.mp4]
+
+TIME:
+2019年08月23日 10:46:37
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [admin]
+>OPERATE [Delete folder]
+>PATH [ROOT/]
+>NAME [龙珠漫画]
+
+TIME:
+2019年08月23日 11:00:05
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [uetec-admin]
+>OPERATE [Upload file]
+>PATH [ROOT/龙珠超]
+>NAME [[龙珠超].mp4]
+
+TIME:
+2019年08月23日 11:03:59
+TYPE:
+Event
+CONTENT:
+>ACCOUNT [uetec-admin]
+>OPERATE [Share Download file URL]
+>PATH [ROOT/龙珠超]
+>NAME [[龙珠超].mp4]
