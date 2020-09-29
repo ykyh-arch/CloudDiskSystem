@@ -1,12 +1,12 @@
-## 欢迎访问连营电子文件系统源代码资源库！
+## 欢迎访问文件系统源代码资源库！
 ### Welcome to visit source of uetec-file-system!
 
 _当前版本：v1.0.20-RELEASE_
 
 ### 简介
-_uetec-file-system——一款便捷、开源、功能完善的个人&团队&小型团队网盘服务器系统。
+file-system——一款便捷、开源、功能完善的个人&团队&小型团队网盘服务器系统。
 
-_uetec-file-system能够帮助您快速搭建起一个面向家庭、团队或组织的网盘系统，它操作简单、高效且功能多样。这里是uetec-file-system的源代码资源库，您可以在这里获得uetec-file-system的源代码，并对其进行下载、阅读与重构。
+file-system能够帮助您快速搭建起一个面向家庭、团队或组织的网盘系统，它操作简单、高效且功能多样。这里是uetec-file-system的源代码资源库，您可以在这里获得uetec-file-system的源代码，并对其进行下载、阅读与重构。
 
 注：如果您仅仅希望得到一份拿来即用的软件，uetec-file-system也提供了一个完整的、解压即用的编译版。您可以根据其说明在3分钟内快速安装并开始使用。如果您需要该版本，请转到以下位置进行浏览和下载：
 [uetec-file-system-官方主页](https://kohgylw.gitee.io)
